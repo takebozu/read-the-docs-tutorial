@@ -162,3 +162,6 @@ texinfo_documents = [
 
 
 # -- Extension configuration -------------------------------------------------
+
+locale_dirs = ['locale/']
+gettext_compact = False

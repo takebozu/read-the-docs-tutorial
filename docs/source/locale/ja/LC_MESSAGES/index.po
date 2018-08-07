@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Satoshi Takezawa
+# This file is distributed under the same license as the Test App package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test App \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-07 16:10+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/index.rst:7
+msgid "Welcome to Test App's documentation!"
+msgstr "Test Appのドキュメントへようこそ。"
+
+#: ../../source/index.rst:10
+msgid "概要"
+msgstr ""
+
+#: ../../source/index.rst:12
+msgid "Thank you for visiting! This site is intended to evaluate Read the Docs."
+msgstr ""
+
+#: ../../source/index.rst:23
+msgid "目次"
+msgstr ""
+
+#: ../../source/index.rst:25
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:26
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:27
+msgid ":ref:`search`"
+msgstr ""
+
