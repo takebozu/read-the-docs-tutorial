@@ -22,16 +22,16 @@ msgid "Welcome to Test App's documentation!"
 msgstr "Test Appのドキュメントへようこそ。"
 
 #: ../../source/index.rst:10
-msgid "概要"
-msgstr ""
+msgid "Overview"
+msgstr "概要"
 
 #: ../../source/index.rst:12
 msgid "Thank you for visiting! This site is intended to evaluate Read the Docs."
-msgstr ""
+msgstr "訪問していただきありがとうございます。このサイトはRead the Docsの評価のために作りました。"
 
 #: ../../source/index.rst:23
-msgid "目次"
-msgstr ""
+msgid "Indices and tables"
+msgstr "目次"
 
 #: ../../source/index.rst:25
 msgid ":ref:`genindex`"
@@ -44,4 +44,10 @@ msgstr ""
 #: ../../source/index.rst:27
 msgid ":ref:`search`"
 msgstr ""
+
+#~ msgid "概要"
+#~ msgstr ""
+
+#~ msgid "目次"
+#~ msgstr ""
 
