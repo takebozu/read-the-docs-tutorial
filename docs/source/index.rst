@@ -11,6 +11,8 @@ Overview
 
 Thank you for visiting! This site is intended to evaluate Read the Docs.
 
+Here is math equation. Can you see this?
+
 .. math::
    E(x) = (x_{0} + x_{1} + x_{2} - 2) ^ 2
 
